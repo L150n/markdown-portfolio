@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Computer Games
+2. Anime
+3. Super Heros
